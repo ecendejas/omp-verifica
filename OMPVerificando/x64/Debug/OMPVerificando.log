@@ -1,0 +1,5 @@
+﻿  pch.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+  OMPVerificando.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+  OMPVerificando.vcxproj -> C:\Users\eacc2\source\repos\OMPVerificando\x64\Debug\OMPVerificando.exe
